@@ -1,2 +1,1 @@
-# DataAbalizOdev
-Udemy kurs analiz
+
